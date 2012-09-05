@@ -1,5 +1,6 @@
 The hardware used is:
 Sparkfun RN-131g Breakout
+Melexis MLX90620 Sensor
 LD1117V33 Voltage Regulator
 Arduino Pro Mini 3.3V
 1N4001 diode
